@@ -23,8 +23,8 @@ pipeline{
             }
         }
 
-        // Stage3 : Deplokying
-        stage ('Test'){
+        // Stage3 : Deploying
+        stage ('Deploy'){
             steps {
                 echo ' testing.......'
                 
