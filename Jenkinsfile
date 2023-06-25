@@ -18,7 +18,7 @@ pipeline{
         // Stage2 : Testing
         stage ('Test'){
             steps {
-                echo ' testing......pom version2'
+                echo ' testing.......................'
 
             }
         }
